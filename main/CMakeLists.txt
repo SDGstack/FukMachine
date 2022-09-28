@@ -1,3 +1,3 @@
 idf_component_register(SRCS "main.cpp"
                     INCLUDE_DIRS "."
-                    REQUIRES DendoStepper freertos esp-idf-blynk)
+                    REQUIRES DendoStepper freertos driver)
